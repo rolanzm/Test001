@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace P2
 {
-    public class clsJugador
+    class clsEquipo
     {
-        public byte _Edad { get; set; }
-        public string Nomre { get; set; }
+        public string Descripcion { get; set; }
     }
 }
